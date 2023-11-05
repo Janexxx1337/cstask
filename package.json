@@ -1,0 +1,25 @@
+{
+  "name": "cstask",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "primeicons": "^6.0.1",
+    "primevue": "^3.39.0",
+    "vue": "^3.3.4",
+    "vue-lazyload": "^3.0.0",
+    "vue-virtual-scroll-list": "^2.3.5",
+    "vue-virtual-scroller": "^2.0.0-beta.8",
+    "vue3-lazyload": "^0.3.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "@vue/cli-plugin-typescript": "^5.0.8",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.11"
+  }
+}
