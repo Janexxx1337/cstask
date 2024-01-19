@@ -43,7 +43,6 @@ interface Item {
 }
 const itemsKey = ref(0);
 const items2Key = ref(0);
-const items3Key = ref(3);
 
 const updateKeys = () => {
   itemsKey.value++;
